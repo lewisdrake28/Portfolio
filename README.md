@@ -39,7 +39,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # This is a test 123
 
 ```csharp
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+using System;
+
+namespace Code
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello world");
+        }
+    }
+}
 ```
