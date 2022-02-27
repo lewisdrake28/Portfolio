@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # This is a test 123
 
-```ruby
+```csharp
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
