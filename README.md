@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # This is a test 123
 
-```cs
+```csharp
 using System;
 
 namespace Code
